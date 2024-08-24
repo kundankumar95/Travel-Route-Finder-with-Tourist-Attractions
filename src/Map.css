@@ -1,0 +1,27 @@
+body {
+  background-color: #e0f7fa;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+.map-container {
+  height: 80vh;
+  width: 90%;
+  margin: 2rem auto;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.leaflet-container {
+  border-radius: 10px;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.leaflet-popup-tip {
+  background-color: #4CAF50;
+}
