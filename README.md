@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/kundankumar95/travel-route-finder.git
+git clone (https://github.com/kundankumar95/Travel-Route-Finder-with-Tourist-Attractions)
 Navigate to the project directory:
 bash
 Copy code
