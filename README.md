@@ -37,12 +37,6 @@ cd ../frontend
 npm install
 Configuration
 Set up environment variables:
-Create a .env file in the backend directory.
-Add your Google Maps API key and Unsplash API key to the .env file.
-env
-Copy code
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-UNSPLASH_API_KEY=your_unsplash_api_key
 Usage
 Start the backend server:
 bash
